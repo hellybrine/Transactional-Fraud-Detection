@@ -32,7 +32,7 @@ Fraudulent transactions pose significant challenges for financial institutions, 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/hellybrine/TransactionalFraudDetection.git
+   git clone https://github.com/hellybrine/Transactional-Fraud-Detection.git
    ```
 
 2. Install dependencies:
@@ -44,7 +44,7 @@ Fraudulent transactions pose significant challenges for financial institutions, 
 
 1. Navigate to the project directory:
    ```
-   cd TransactionalFraudDetection
+   cd Transactional-Fraud-Detection
    ```
 
 2. Run the main script:
